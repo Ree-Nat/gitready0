@@ -4,10 +4,10 @@
 Nathan Rinon
 
 ### Repositoy 
-https://github.com/Ree-Nat/gitready0
+https://github.com/Ree-Nat?tab=repositories
 
 ### Video Link!!:
- https://youtu.be/qqAKBI_L4tI
+https://youtu.be/qqAKBI_L4tI
 
 ### Screencast Software and IDE
  
