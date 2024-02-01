@@ -6,7 +6,7 @@ Nathan Rinon
 ### Repositoy 
 https://github.com/Ree-Nat/gitready0
 
-### Video Link!:
+### Video Link!!:
  https://youtu.be/qqAKBI_L4tI
 
 ### Screencast Software and IDE
